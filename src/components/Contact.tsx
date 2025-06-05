@@ -61,7 +61,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-white font-medium">Email</p>
-                  <p className="text-gray-400">developer@example.com</p>
+                  <p className="text-gray-400">jumbamarther@gmail.com.com</p>
                 </div>
               </div>
 
@@ -71,7 +71,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-white font-medium">Phone</p>
-                  <p className="text-gray-400">+1 (555) 123-4567</p>
+                  <p className="text-gray-400">+254741169158</p>
                 </div>
               </div>
 
@@ -81,7 +81,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-white font-medium">Location</p>
-                  <p className="text-gray-400">New York, NY</p>
+                  <p className="text-gray-400">Nairobi, Kenya</p>
                 </div>
               </div>
             </div>
@@ -152,7 +152,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="text-center mt-20 pt-8 border-t border-purple-500/20">
           <p className="text-gray-400">
-            © 2024 Portfolio. Built with React and Tailwind CSS.
+            © 2024 Portfolio. 
           </p>
         </div>
       </div>
