@@ -7,16 +7,16 @@ const Skills = () => {
     { name: 'React', level: 90 },
     { name: 'TypeScript', level: 85 },
     { name: 'Node.js', level: 80 },
-    { name: 'CSS/SCSS', level: 90 },
-    { name: 'Python', level: 75 },
-    { name: 'Git', level: 85 },
-    { name: 'MongoDB', level: 70 },
+    { name: 'CSS/CSS', level: 90 },
+    { name: 'C#', level: 75 },
+    { name: 'ASP.NET', level: 85 },
+    { name: 'PosgreSQL', level: 70 },
   ];
 
   const technologies = [
     'React', 'Next.js', 'Vue.js', 'Node.js', 'Express',
-    'MongoDB', 'PostgreSQL', 'Firebase', 'AWS', 'Docker',
-    'Tailwind CSS', 'SCSS', 'GraphQL', 'REST APIs', 'TypeScript'
+    'C#', 'PostgreSQL', 'Firebase', 'AWS', 'Docker',
+    'CSS', 'SCSS', 'PostgreSQL', 'REST APIs', 'TypeScript'
   ];
 
   return (
