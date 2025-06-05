@@ -5,28 +5,28 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce solution built with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.',
+      title: 'bookstore Platform',
+      description: 'A full-stack bookstore project solution built with React, ASP.NET, C#, and PostgreSQL. Features include user authentication, payment processing, and admin dashboard.',
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+      technologies: ['React', 'ASP.NET', 'postgreSQL', 'C#'],
       liveLink: '#',
-      githubLink: '#'
+      githubLink: 'https://github.com/shievan27/bookstore-project'
     },
     {
-      title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
+      title: 'A spa website',
+      description: 'A SPA website that is fully functionally. it has a booking page and also the interfaces are user friendly.',
       image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop',
-      technologies: ['Vue.js', 'Firebase', 'Tailwind CSS'],
-      liveLink: '#',
-      githubLink: '#'
+      technologies: ['javascript', 'REACT', ' CSS'],
+      liveLink: 'https://royalspark-spa.netlify.app/',
+      githubLink: 'https://github.com/shievan27/Royalspark-spa'
     },
     {
-      title: 'Portfolio Website',
-      description: 'A responsive portfolio website showcasing modern web development techniques with smooth animations and optimized performance.',
+      title: 'a student management system',
+      description: 'A responsive website that has all the CRUD processes where by the students can be added and deleted in the system.',
       image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=400&fit=crop',
-      technologies: ['React', 'TypeScript', 'Tailwind CSS'],
-      liveLink: '#',
-      githubLink: '#'
+      technologies: ['React', 'TypeScript', ' CSS', 'ASP.NET', 'C#'],
+      liveLink: 'https://mjmanagementsystem.netlify.app/',
+      githubLink: 'https://github.com/shievan27/student-management'
     }
   ];
 
