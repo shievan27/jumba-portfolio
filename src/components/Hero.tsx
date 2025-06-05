@@ -14,6 +14,8 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
+            <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent">MARTHER JUMBA
+            </span>
             <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent">
               Web Developer
             </span>
@@ -40,10 +42,10 @@ const Hero = () => {
             <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors duration-200 hover:scale-110 transform">
               <Github size={24} />
             </a>
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors duration-200 hover:scale-110 transform">
+            <a href="https://github.com/shievan27" className="text-gray-400 hover:text-purple-400 transition-colors duration-200 hover:scale-110 transform">
               <Linkedin size={24} />
             </a>
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors duration-200 hover:scale-110 transform">
+            <a href="mailto:jumbamarther@gmail.com" className="text-gray-400 hover:text-purple-400 transition-colors duration-200 hover:scale-110 transform">
               <Mail size={24} />
             </a>
           </div>
