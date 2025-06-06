@@ -154,6 +154,9 @@ const Contact = () => {
           <p className="text-gray-400">
             © 2024 Portfolio. 
           </p>
+          <p className="text-gray-400">
+            Built by <span className="text-purple-400">marther k. jumba </span>all rights reserved.
+          </p>
         </div>
       </div>
     </section>
